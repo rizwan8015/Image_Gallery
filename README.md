@@ -149,7 +149,8 @@ function unDo() {
 ```
 
 ## OUTPUT:
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/9db8a2b7-6ec4-4463-ac18-52f1f0a2fdcc)
+
 
 
 ## RESULT:
